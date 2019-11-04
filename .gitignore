@@ -1,0 +1,7 @@
+# project files
+venv
+db.local
+
+# hidden files
+.vscode
+.DS_Store
