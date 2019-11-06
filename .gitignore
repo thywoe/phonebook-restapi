@@ -5,3 +5,4 @@ db.local
 # hidden files
 .vscode
 .DS_Store
+__pycache__
